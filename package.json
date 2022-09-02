@@ -1,0 +1,20 @@
+{
+  "name": "desafio-pipeline",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --coverage",
+    "start": "node src/app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexlimacti/desafio-pipeline.git"
+  },
+  "bugs": {
+    "url": "https://github.com/alexlimacti/desafio-pipeline/issues"
+  },
+  "homepage": "https://github.com/alexlimacti/desafio-pipeline#readme",
+  "author": "",
+  "license": "ISC"
+}
